@@ -1,6 +1,40 @@
 <!DOCTYPE html>
 <html>
-<body>
+<head>
+    <style>
+        ul.ulTopBar{
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #000000;
+        }
+
+        li.liTopBar {
+            float: left;
+        }
+
+        li a.liTopBar {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 16px;
+            text-decoration: none;
+        }
+
+        li a:hover.liTopBar {
+            background-color: #111111;
+        }
+
+    </style>
+</head>
+<body style="background-color:powderblue;">
+<ul class="ulTopBar">
+    <li class="liTopBar"><a class = liTopBar href="">About</a></li>
+    <li class="liTopBar"><a class = liTopBar href="/projects">Projects</a></li>
+    <li class="liTopBar"><a class = liTopBar href="/contact">Contact</a></li>
+    <li class="liTopBar"><a class = liTopBar href="/resume">Resume</a></li>
+</ul>
     <h1>Projects Page</h1>
     <p>
         <a href="https://github.com/dreightneour/SnakeAI">Check out my neural network snake</a>
