@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20615669-e7c8-49de-8a67-dfae77ce0573" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/Resume_Newer.docx" afterPath="$PROJECT_DIR$/resume/Resume_Newer.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume/index.html" afterPath="$PROJECT_DIR$/resume/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="67" column="28" lean-forward="false" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+            <state relative-caret-position="495">
+              <caret line="80" column="27" lean-forward="false" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -206,7 +205,10 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/dreightneour.github.io/resume/index.html">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -260,6 +262,14 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -271,12 +281,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483174393672</updated>
-      <workItem from="1483174396281" duration="16436000" />
+      <workItem from="1483174396281" duration="16622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16436000" />
+    <option name="totallyTimeSpent" value="16622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -350,8 +360,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="67" column="28" lean-forward="false" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+        <state relative-caret-position="495">
+          <caret line="80" column="27" lean-forward="false" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
