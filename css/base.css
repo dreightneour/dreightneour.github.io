@@ -25,3 +25,8 @@ li a.liTopBar {
 li a:hover.liTopBar {
     background-color: #111111;
 }
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
