@@ -1,12 +1,13 @@
 body {
-    background-image:   linear-gradient(to right, #333333, #444444),
-                        linear-gradient(to right, #333333, #444444);
+    background-image:   linear-gradient(to right, #333333, #444444);//,
+                        //linear-gradient(to right, #333333, #444444);
 
     background-repeat:      no-repeat,
-                            no-repeat;
+                            /*no-repeat;
 
     background-position:    0% 0%,
                             0% 75%;
+                            */
 }
 
 ul.ulTopBar{
