@@ -1,5 +1,6 @@
 body {
     background-image: linear-gradient(to bottom right, #000000, #444444);
+    background-repeat:no-repeat;
 }
 
 ul.ulTopBar{
