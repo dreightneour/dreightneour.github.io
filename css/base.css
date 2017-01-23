@@ -1,11 +1,13 @@
 h1.top {
-    background-image:   linear-gradient(to right, #000000, #111111);
-
     padding: 100px;
     text-align: center;
     color: #FFFFFF;
 }
 
+div.top {
+    background-image:   linear-gradient(to right, #000000, #111111);
+
+}
 ul.ulTopBar{
     list-style-type: none;
     margin: 0;
