@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="20615669-e7c8-49de-8a67-dfae77ce0573" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -292,12 +291,20 @@
       <updated>1483174393672</updated>
       <workItem from="1483174396281" duration="18267000" />
       <workItem from="1484802553089" duration="4503000" />
-      <workItem from="1485397216452" duration="38000" />
+      <workItem from="1485397216452" duration="66000" />
     </task>
+    <task id="LOCAL-00001" summary="Just trying some more from linux">
+      <created>1485397276293</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1485397276293</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22808000" />
+    <option name="totallyTimeSpent" value="22836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1926" height="1050" extended-state="6" />
@@ -326,6 +333,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Just trying some more from linux" />
+    <option name="LAST_COMMIT_MESSAGE" value="Just trying some more from linux" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
