@@ -3,21 +3,22 @@
 </head>
 <body>
     <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div>
-</body>
-<script type="text/javascript">
-WowzaPlayer.create('playerElement',
-    {
-    "license":"PLAY1-hFVN7-RnJjH-GWmBt-UJ778-QBZD7",
-    "title":"",
-    "description":"",
-    "sourceURL":"http%3A%2F%2F52.91.241.109%3A1935%2Fmuller%2F_definst_%2Fmp4%3Atrailer.mp4%2Fplaylist.m3u8",
-    "autoPlay":false,
-    "volume":"75",
-    "mute":false,
-    "loop":false,
-    "audioOnly":false,
-    "uiShowQuickRewind":true,
-    "uiQuickRewindSeconds":"30"
-    }
-);
+    <script type="text/javascript">
+    WowzaPlayer.create('playerElement',
+        {
+        "license":"PLAY1-hFVN7-RnJjH-GWmBt-UJ778-QBZD7",
+        "title":"",
+        "description":"",
+        "sourceURL":"http%3A%2F%2F52.91.241.109%3A1935%2Fmuller%2F_definst_%2Fmp4%3Atrailer.mp4%2Fplaylist.m3u8",
+        "autoPlay":false,
+        "volume":"75",
+        "mute":false,
+        "loop":false,
+        "audioOnly":false,
+        "uiShowQuickRewind":true,
+        "uiQuickRewindSeconds":"30"
+        }
+    );
 </script>
+</body>
+
