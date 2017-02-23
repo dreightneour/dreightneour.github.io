@@ -1,0 +1,65 @@
+%{--<html>--}%
+%{--<head>--}%
+    %{--<script src="/jwplayer/jwplayer.js"></script>--}%
+    %{--<script>jwplayer.key="Uy4qieQ/Q6DW4aJBvzj/Nr05R/YZyVQGvkk6pA====";</script>--}%
+%{--</head>--}%
+%{--<body>--}%
+    %{--<div id="container">&nbsp;</div>--}%
+    %{--<script type="text/javascript">--}%
+        %{--var playerInstance = jwplayer("container");--}%
+        %{--playerInstance.setup({--}%
+            %{--file: "/jwplayer/germany.mp4"--}%
+            %{--//mediaid: "xxxxYYYY"--}%
+        %{--});--}%
+    %{--</script>--}%
+%{--</body>--}%
+%{--</html>--}%
+
+<html>
+<head>
+    %{--<script src="https://content.jwplatform.com/libraries/2RGVef62.js"></script>--}%
+    %{--<script src="http://localhost:8080/episo/jwplayer/jwplayer.js"></script>--}%
+    <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script>
+
+</head>
+
+<body>
+<div id="container" style="width:100%; height:0; padding:0 0 56.25% 0"></div>
+<script>
+//    jwplayer("container").setup({
+//        file: "https://www.youtube.com/watch?v=pyaVuA1D17U"
+//    });
+    %{--jwplayer.key="Uy4qieQ/Q6DW4aJBvzj/Nr05R/YZyVQGvkk6pA==";--}%
+    %{--var playerInstance = jwplayer("container");--}%
+    %{--playerInstance.setup({--}%
+        %{--file: "https://www.youtube.com/watch?v=1wEtvnVp7tI",--}%
+        %{--image: "${request.contextPath}/jwplayer/thumb.jpg",--}%
+        %{--height: 600,--}%
+        %{--width: 1024--}%
+
+    %{--})--}%
+    %{--jwplayer("container").setup({--}%
+        %{--"file": "${request.contextPath}/jwplayer/germany.mp4",--}%
+        %{--"image": "${request.contextPath}/jwplayer/thumb.jpg",--}%
+        %{--"height": 360,--}%
+        %{--"width": 640--}%
+    %{--});--}%
+WowzaPlayer.create('container',
+    {
+        "license":"PLAY1-hFVN7-RnJjH-GWmBt-UJ778-QBZD7",
+        "title":"",
+        "description":"",
+        "sourceURL":"http%3A%2F%2F172.31.1.153%3A1935%2Fmuller%2F_definst_%2Fmp4%3Agermany.mp4%2Fplaylist.m3u8",
+//        "sourceURL":"https://www.youtube.com/watch?v=1wEtvnVp7tI",
+        "autoPlay":true,
+        "volume":"75",
+        "mute":false,
+        "loop":false,
+        "audioOnly":false,
+        "uiShowQuickRewind":true,
+        "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+</body>
+</html>
