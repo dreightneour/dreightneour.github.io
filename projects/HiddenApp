@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root version="1">
 	<Application>
-		<Name>test</Name>
+		<Name>muller</Name>
 		<AppType>VOD</AppType>
 		<Description></Description>
 		<!-- Uncomment to set application level timeout values
@@ -29,7 +29,7 @@
 		-->
 		<Streams>
 			<StreamType>default</StreamType>
-			<StorageDir>${com.wowza.wms.context.VHostConfigHome}/content/test</StorageDir>
+			<StorageDir>${com.wowza.wms.context.VHostConfigHome}/content/muller</StorageDir>
 			<KeyDir>${com.wowza.wms.context.VHostConfigHome}/keys</KeyDir>
 			<!-- LiveStreamPacketizers (separate with commas): cupertinostreamingpacketizer, smoothstreamingpacketizer, sanjosestreamingpacketizer, mpegdashstreamingpacketizer, cupertinostreamingrepeater, smoothstreamingrepeater, sanjosestreamingrepeater, mpegdashstreamingrepeater, dvrstreamingpacketizer, dvrstreamingrepeater -->
 			<LiveStreamPacketizers></LiveStreamPacketizers>
