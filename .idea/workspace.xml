@@ -56,8 +56,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <state relative-caret-position="210">
+              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -410,7 +410,7 @@
       <workItem from="1485757916188" duration="19000" />
       <workItem from="1485890021185" duration="599000" />
       <workItem from="1487823549559" duration="2000" />
-      <workItem from="1488933939517" duration="1384000" />
+      <workItem from="1488933939517" duration="1453000" />
     </task>
     <task id="LOCAL-00001" summary="Just trying some more from linux">
       <created>1485397276293</created>
@@ -447,11 +447,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488935234968</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updating for presentation">
+      <created>1488935520955</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1488935520955</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25665000" />
+    <option name="totallyTimeSpent" value="25734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1926" height="1083" extended-state="6" />
@@ -484,7 +491,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Just trying some more from linux" />
-    <option name="LAST_COMMIT_MESSAGE" value="Just trying some more from linux" />
+    <MESSAGE value="updating for presentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating for presentation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -836,8 +844,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        <state relative-caret-position="210">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
